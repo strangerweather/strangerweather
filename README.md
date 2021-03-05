@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Strangerweather's GitHub stats](https://github-readme-stats.vercel.app/api?username=strangerweather&count_private=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
