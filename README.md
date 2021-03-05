@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **strangerweather/strangerweather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Strangerweather's GitHub stats](https://github-readme-stats.vercel.app/api?username=strangerweather&count_private=true)
+![Strangerweather's GitHub stats](https://github-readme-stats.vercel.app/api?username=strangerweather&count_private=true&show_icons=true&include_all_commits&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strangerweather)](https://github.com/strangerweather/github-readme-stats)
